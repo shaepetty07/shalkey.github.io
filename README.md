@@ -1,2 +1,2 @@
 # shalkey.github.io
-I made a change
+Testing out git in Atom
